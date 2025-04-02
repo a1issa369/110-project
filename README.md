@@ -1,5 +1,5 @@
 # 110-project
-Ahmed Issa's User Page
+Ahmed's User Page
 
 
 My favorite programming language is python.
