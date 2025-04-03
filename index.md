@@ -31,7 +31,7 @@
 ## Experience
 > I worked as a tutor for [CSE 8A](#cse-classes-i-have-taken-so-far) back in Fall 2024
 
-[Wanna know my favorite show of all time?](docs/favShow.md)
+[Wanna know my favorite show of all time?](favShow.md)
 
 
 
