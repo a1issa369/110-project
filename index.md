@@ -29,7 +29,7 @@
 * video games
 
 ## Experience
-> I worked as a tutor for [CSE 8A](#cse-classes-i-have-taken-so-far) back in Fall 2024 this year
+> I worked as a tutor for [CSE 8A](#cse-classes-i-have-taken-so-far) back in Fall 2024
 
 
 
