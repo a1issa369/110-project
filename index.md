@@ -1,7 +1,7 @@
 
 
 # ***Who Am I?***
-> My name is Ahmed Issa. I am a rising junior computer science major in UCSD and this project is for my `CSE 110` class.
+> My name is Ahmed Issa. I am a rising junior computer science major in UCSD and this project is for my `CSE 110` class. My three main interests outside of class are gym, watching anime, and learning about AI. I'm in the middle of trying to make an anime/movie reccomender project and hope it turns out well!
 >  
 
 ## **CSE Classes I have taken so far**
